@@ -1,0 +1,6 @@
+El proyecto a desarrollar es sobre el analisis, diseño y contruccion de una aplicacion software que permita
+controlar las ventas fisicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento,
+este trabajo sera hecho en grupo de 5 intengrantes, se aplicara el metodo agil scrum en el cual cada integrante 
+desarrollara un rol en especifico.
+
+ 
