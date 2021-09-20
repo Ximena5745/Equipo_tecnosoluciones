@@ -1,2 +1,2 @@
 # Equipo_tecnomac
-Repositorio para el proyecto
+Este repositorio esta hecho para desarrollar el proyecto
