@@ -7,3 +7,5 @@ Buen dia, mi nombre es Christian Jesus Pinzon soy ingeniero de sistemas, actualm
 Muy buenas noches, me llamo Diana Catalina Niño Montañez, soy de la ciudad de Bogotá, Administradora de Empresas de la UN y tengo 28 años. Considero que he aprendido bastante en Mision Tic y quiero serguir reforzando esos conocimientos, confío en que estas actividades me ayuden a lograrlo.
 
 Mi nombre es Licec Ximena Silva Goyeneche, soy de la ciudad de Bogotá, tengo 28 años y soy Administradora Financiera. Soy apasionada de la tecnología y deseo especializarme en Data Science.
+
+Hola mi nombre es Felipe Trujillo Garzón soy estudiante de Economía de la Universidad Nacional en Bogotá, sé programar en R y fundamentos de C++ quiero aprender a programar para aplicarlo en mi carrera y vida personal.
